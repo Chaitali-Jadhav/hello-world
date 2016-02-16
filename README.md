@@ -1,2 +1,2 @@
-# hello-world
-creating first repository
+hello,
+I like programming.
